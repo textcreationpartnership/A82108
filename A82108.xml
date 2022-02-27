@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of many thousands of the city of Canterbury, or county of Kent. Concerning the late tumult in the city of Canterbury, provokt by the Mayors violent proceedings against those who desired to continue the celebration of the Feast of Christs Nativity, 1500 yeers and upwards maintained in the Church. Together with their resolutions for the restitution of His Majestie to his Crown and dignity, whereby religion may be restored to its ancient splendour, and the known laws of this Kingdom maintained. As also, their desires to all His Majesties loyall subjects within his Dominions, for their concurrence and assistance in this so good and pious work.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82108</idno>
+            <idno type="STC">Wing D614</idno>
+            <idno type="STC">Thomason E421_23</idno>
+            <idno type="STC">ESTC R204766</idno>
+            <idno type="EEBO-CITATION">99864228</idno>
+            <idno type="PROQUEST">99864228</idno>
+            <idno type="VID">161373</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82108)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161373)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E421[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of many thousands of the city of Canterbury, or county of Kent. Concerning the late tumult in the city of Canterbury, provokt by the Mayors violent proceedings against those who desired to continue the celebration of the Feast of Christs Nativity, 1500 yeers and upwards maintained in the Church. Together with their resolutions for the restitution of His Majestie to his Crown and dignity, whereby religion may be restored to its ancient splendour, and the known laws of this Kingdom maintained. As also, their desires to all His Majesties loyall subjects within his Dominions, for their concurrence and assistance in this so good and pious work.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeer 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan: 5".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christmas --  England --  Early works to 1800.</term>
+               <term>Canterbury (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161373:1" rendition="simple:additions"/>
+            <p>THE DECLARATION Of many thouſands of the City of CANTERBURY, or County of KENT.</p>
+            <p>Concerning the late Tumult in the City of <hi>Canterbury,</hi> provokt by the Mayors violent proceedings againſt thoſe who deſired to continue the celebration of the Feaſt of Chriſts Nativity, 1500 yeers and upwards maintained in the Church.</p>
+            <p>Together with their Reſolutions for the reſti<g ref="char:EOLhyphen"/>tution of His Majeſtie to his Crown and dignity, whereby Religion may be reſtored to its an<g ref="char:EOLhyphen"/>cient ſplendour, and the known Laws of this Kingdom maintained.</p>
+            <p>AS ALSO, Their deſires to all His Majeſties loyall Subjects with<g ref="char:EOLhyphen"/>in his Dominions, for their concurrence and aſſiſtance in this ſo good and pious a work.</p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Yeer 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:161373:2"/>
+            <pb n="3" facs="tcp:161373:2"/>
+            <head>THE DECLARATION Of many thouſands of the City of Canterbury, or County of KENT.</head>
+            <head type="sub">Concerning the late Tumult in the City of <hi>Canterbury,</hi> provokt by the Mayors violent proceedings againſt thoſe who deſired to continue the celebration of the Feaſt of Chriſts Nativity, 1500 yeers and upwards maintained in the Church.</head>
+            <p>THe long lookt for Reformation of Church and Com<g ref="char:EOLhyphen"/>mon-wealth, hath been the expectation of moſt men: happy they at firſt that could but put a finger, or adde a mite to this great and glorious work, or (as falſly and blaſphemouſly) the work of the Lord. How forward was the holy City of <hi>London</hi> to bring forth their Treaſure for the advancing of ſo pious a Deſigne, their Money, Plate, Jewels were not wanting; the common ſort of people thought we ſhould have had a golden Age, that it ſhould have been with them as in the dayes of <hi>Solomon,</hi> to have ſilver and gold as plen<g ref="char:EOLhyphen"/>tifull as ſtones in the ſtreet; their zeal was ſo hot, that it ever eat up many of them, they cannot recover it to this day. The moſt part of the Kingdom hath been deluded with vain pre<g ref="char:EOLhyphen"/>tences of truth in Religion, of liberty and property, of all earthly happineſſe that might be; they expected <hi>England</hi> to have become a ſecond Paradiſe. But what the Proverb of old, is now to our ſorrow found too true, the remedy of theſe pre<g ref="char:EOLhyphen"/>tenders to Reformation is worſe then the diſeaſe; the two Houſes have ſate above ſeven yeers to hatch Cocatrices and Vipers, they have filled the Kingdom with Serpents, blood-thirſtie Souldi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s, extorting Committees, Sequeſtrators, Exciſe<g ref="char:EOLhyphen"/>men; all the Rogues and ſcumme of the Kingdom have they
+<pb n="4" facs="tcp:161373:3"/>ſet on work to torment and vex the people, to rob them, and to eat the bread out of their mouthes; they have raiſed a cauſe<g ref="char:EOLhyphen"/>leſſe and unnaturall Warre againſt their own Soveraigne Lord and King, a moſt pious Chriſtian Prince, contrary to their Al<g ref="char:EOLhyphen"/>legiance and duty, and have ſhed innocent blood in this Land. Religion is onely talkt of, nothing done; they have put down what is good, and (as the Church of <hi>Rome</hi> heretofore did) they lead us in an implicite blinde way, we know not what Faith to profeſſe. Nay, Hereſies and blaſphemies condemned in Generall Councils long before Popery had any growth in the Chriſtian Church, are revived; and though not publickly owned by our Reformers, yet winkt at, or at leaſt left unpu<g ref="char:EOLhyphen"/>niſhed. The Civill Government is doubtfull: our fundamentall Laws ſo much talkt of in this pretended Reformation, are now become onely the Votes of the two Houſes: if they be pleaſed to take away our lives and fortunes by a Vote, (as they did ſome of our dear Countreymen for performing their duty) it is Law, though we never come to triall: the liberty and pro<g ref="char:EOLhyphen"/>perty of the Subject (ſo much contended for) is wholly theirs, we but vaſſals and ſlaves to their will; and their will is now our Law. There is now little mention made of the King in any of their proceedings; they voted Him long ſince not to be in a condition to govern: it is conjectured by us plain Countrey<g ref="char:EOLhyphen"/>men, that they eſteem him but as a conquer'd Prince, ſubject now to their mercy; if he could eſcape with life it were well; all Power and Authority is now monopolited and confined within the verge of our omnipotent (yet monſtrous) Parlia<g ref="char:EOLhyphen"/>ment. The greateſt ſcruple is what to do, or how to diſpoſe of this heavie burden of the Kingdom, the King; if they ſhould depoſe him, or take away his life, they fear the people, becauſe moſt of them yet take him for their King: they have (ſince he came within their power) endeavoured to vex and grieve him, by the debarring him of the ſociety and comfort of his Royall Conſort, the enjoyment of his children, the attendance of his faithfull Nobility and Counſellors, by removing his truſtie ſervants from him, denying any acceſſe of his loyall Subjects unto him, keeping ſtrict guards about him, urging him to the
+<pb n="5" facs="tcp:161373:3"/>ſigning of ſuch Propoſitions, which might render him odious to his Subjects (As they have juſtly made themſelves already) and the ſcorne of all Kings and Nations: and the end of all this is, to break his heart, and ſhorten his life; for that is the onely way to ſecure their own lives and eſtates. They would hold the people in hand, that they are labouring to ſettle peace in this Kingdome, to releive <hi>Ireland</hi> and keepe union with <hi>Scot<g ref="char:EOLhyphen"/>land;</hi> But we underſtand that <hi>Scotland</hi> is not pleaſed, <hi>Ireland</hi> to our knowledge is not releived, and this Kingdom much diſcon<g ref="char:EOLhyphen"/>tented, and miſerably divided. If Peace be ſo neer unto us (as is pretended) why have they voted a ſtanding army of ſo many thouſands to the further grievance and impoveriſhing of the Land? Wherefore continue they ſo many uſeleſſe garriſons and County troopes? Why lay they greater taxes upon the people, and yet burthen them with free quarter? The charge of the Kingdom is increaſed, and yet they promiſe us ſudden peace: Surely they muſt acknowledge, that either they expect a forain enemy, or elſe intend to act ſuch deſperate things againſt the King and Kingdom, as may juſtly provoke another war here by inſurrection of the people. And it is very well known, that the eyes of moſt of the people of this land are opened, and they fully diſcerne now their own weakneſſe in being over credu<g ref="char:EOLhyphen"/>lous, and the wickedneſſe of the two Houſes in ſeducing them under ſpecious pretences, of Religion, Liberty, property and what not? They have deluded the <hi>Scots</hi> alſo with the ſame ar<g ref="char:EOLhyphen"/>guments, and engaged them in that cauſe of which the <hi>Scots</hi> begin now to repent, and be aſhamed, and are ready to vindi<g ref="char:EOLhyphen"/>cate the wrong done them by the two Houſes, as alſo to reſtore the Kings Majeſtie to his juſt rights, who is now impriſoned by them in the Ile of <hi>Wight:</hi> to which deſigne of the <hi>Scots</hi> ſignified in their late Declaration we are ready to joyne our aſſiſtance, and deſire the concurrence of all his Majeſties loyall Subjects within this Kingdome, as hereafter we ſhall more fully expreſſe.</p>
+            <p>The cauſe of this ſo ſudden a poſture of defence which we have put our ſelves into, was the violent proceedings of the Mayor of this City of <hi>Carterbury</hi> and his uncivill carriage in perſuance of ſome petty order of the Houſe of Commons for
+<pb n="6" facs="tcp:161373:4"/>hindering the celebration of Chriſts Nativity ſo long con<g ref="char:EOLhyphen"/>tinued in the Church of God. That which we ſo much deſi<g ref="char:EOLhyphen"/>red that day was but a Sermon, which any other day of the weeke was tollerable by the orders &amp; practiſe of the two Houſes and all their adherents, but that day (becauſe it was Chriſts birth day) we muſt have none; that which is good all the yeer long, yet is this day ſuperſtitious. The Mayor cauſing ſome of us to be beaten contrary to his oath and office, who ought to preſerve the peace, and to that purpoſe chiefly is the ſword of Juſtice put into his hands, and wrongfully impriſoned divers of us, becauſe we did aſſemble our ſelves to hear the word of God, which he was pleaſed to interpret a Ryot; yet we were unarmed, behaved our ſelves civilly, intended no ſuch tumult as afterwards we were forc'd unto: but at laſt ſeeing the mani<g ref="char:EOLhyphen"/>feſt wrong done to our children, ſervants, and neighbours, by beating, wounding, and impriſoning them, we were moved to vindicate the wrong done them, and to releaſe them that were impriſoned, and did call unto our aſſiſtance our brethren of the County of <hi>Kent,</hi> who very readily came in to us, and have aſ<g ref="char:EOLhyphen"/>ſociated themſelves to us in this our juſt and lawfull defence, and do concurre with us in this our Remonſtrance concerning the Kings Majeſtie, and the ſettlement of Peace in this King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>Foraſmuch therefore as the two Houſes have exceedingly erred in exalting their priviledges above the Kings Prerogative, and outgone all former Preſidents in Parliament, by exerciſing an Arbitrary power and government over their fellow ſubjects, have raiſed an unjuſt War againſt our Soveraigne Lord and King, and deſtroyed many of the Nobility, Gentrie, and Com<g ref="char:EOLhyphen"/>monaltie of the Land, have unjuſtly murthered (though execu<g ref="char:EOLhyphen"/>ted as Malefactors) many of his Majeſties loyall Subjects, ſome of our own County alſo, have ſuppreſſed the true Proteſtant Religion, ſuffered all kinds of Hereſies and Errors in the King<g ref="char:EOLhyphen"/>dom, have impriſoned or at leaſt ſilenced and put down all the Orthodox C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ergy, taken away the livelihood and being of many thouſand Families, oppreſſed and robbed the fatherleſſe and widows, put grievous burthens upon the people, unuſuall
+<pb n="7" facs="tcp:161373:4"/>taxes of Propoſition money, Exciſe, &amp;c. which former Parlia<g ref="char:EOLunhyphen"/>ments never dreamed of: have impriſoned the Kings Majeſtie turned away his Chaplains and Servants from him, have bro<g ref="char:EOLunhyphen"/>ken the Union betwixt <hi>England</hi> and <hi>Scotland,</hi> and have rendre themſelves odious to God and all good men.</p>
+            <p>We the Inhabitants of the City of <hi>Canterbury</hi> and County o <hi>Kent,</hi> do proteſt againſt theſe exorbitant and wicked proceed<g ref="char:EOLunhyphen"/>ings of the two Hou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, as moſt injurious to Religion, the Kings Majeſtie, and all his loyall Subjects, and contrary to Gods holy Word and the known Laws of this Kingdom, and alſo con<g ref="char:EOLhyphen"/>trary to the truſt repoſed in them by thoſe Countries, and Towns for which they ſerve. And we will endeavour by Gods gracious aſſiſtance to reſtore Religion to its ancient ſplendour and luſtre, releaſe the Kings Majeſtie out of thraldome and mi<g ref="char:EOLhyphen"/>ſerie, and reſtore him to his juſt rights and power, whereby he may call thoſe men to account for all the blood they have cau<g ref="char:EOLhyphen"/>ſed to be ſhed, for all the vaſt ſums they have extorted from his ſubjects, and the wrong they have done to him and the whole Kingdom. And in this our deſign we ſhall endeavour the pre<g ref="char:EOLhyphen"/>ſervation of the honourable Conſtitution of Parliament, (though thoſe men have abuſed it) and all the juſt priviledges thereof, as much as our own lives and fortunes.</p>
+            <p>And we deſire all his Majeſties loyall Subjects within his Dominions, readily and cheerfully to concurre with us, and aſ<g ref="char:EOLhyphen"/>ſiſt us in this ſo good and pions a work, if truth in Religion may again flouriſh, the King may be honoured and obeyed, e<g ref="char:EOLhyphen"/>very man reſtored to juſt rights, the oppreſſed may be eaſed, the diſtreſſed releived, and a firme and laſting Peace ſettled with<g ref="char:EOLhyphen"/>in theſe three Kingdomes, to the great joy and contentment of all the people thereof.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
